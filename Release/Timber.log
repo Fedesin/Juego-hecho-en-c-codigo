@@ -1,0 +1,14 @@
+﻿  Timber.cpp
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(93,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(338,39): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(364,39): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(422,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(425,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(454,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Timber.cpp(585,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código
+  1 of 162 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Timber.vcxproj -> C:\Users\fedec\Desktop\Programación\VS\Visual Studio Stuff\Projects\Timber\Release\Timber.exe
